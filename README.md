@@ -10,8 +10,18 @@
 
 ## About ## 
 
+Java simulators for testing various [page replacement schemes](https://en.wikipedia.org/wiki/Cache_replacement_policies). 
+Which one is the best? 
 
 * Visit [my website](https://jrquick.com) for me cool stuff!
+
+### Process ###
+
+The program uses three different types of reference strings to test the strategies against varying input. 
+The first type is the random which randomly chooses the next page in memory, then there is the loop which takes in 
+pages in a cyclical pattern with a few random pages thrown in to closer mimic reality. 
+To calculate efficiency I measured the program measures both the time it takes to simulate and the number of page 
+faults occurred
 
 ## Run
 
