@@ -84,7 +84,7 @@ If you find any issues feel free to open a request in [the Issues tab](https://g
 
 * Run using Java 8
 * Add Adaptive Replacement Cache ([ARC](https://en.wikipedia.org/wiki/Cache_replacement_policies#Adaptive_replacement_cache_(ARC)))
-* Add [Belady's Algorith](https://en.wikipedia.org/wiki/Cache_replacement_policies#B%C3%A9l%C3%A1dy's_algorithm))
+* Add [Belady's Algorith]((https://en.wikipedia.org/wiki/Cache_replacement_policies#B%C3%A9l%C3%A1dy's_algorithm))
 * Add Clock with Adaptive Replacement ([CAR](https://en.wikipedia.org/wiki/Cache_replacement_policies#Clock_with_adaptive_replacement_(CAR)))
 * Add Last In First Out ([LIFO](https://en.wikipedia.org/wiki/Cache_replacement_policies#Last_in_first_out_(LIFO)))
 * Add Least Frequently Used ([LFU](https://en.wikipedia.org/wiki/Cache_replacement_policies#Least-frequently_used_(LFU)))
@@ -92,7 +92,7 @@ If you find any issues feel free to open a request in [the Issues tab](https://g
 * Add Low Inter-Reference Recency Set ([LIRS](https://en.wikipedia.org/wiki/Cache_replacement_policies#Low_inter-reference_recency_set_(LIRS)))
 * Add Most Recently Used ([MRU](https://en.wikipedia.org/wiki/Cache_replacement_policies#Most_recently_used_(MRU)))
 * Add Multi Queue ([MQ](https://en.wikipedia.org/wiki/Cache_replacement_policies#Multi_queue_(MQ)))
-* Add [Panier](https://en.wikipedia.org/wiki/Cache_replacement_policies#Pannier:_Container-based_caching_algorithm_for_compound_objects))
+* Add [Panier]((https://en.wikipedia.org/wiki/Cache_replacement_policies#Pannier:_Container-based_caching_algorithm_for_compound_objects))
 * Add [Psuedo-LRU](https://en.wikipedia.org/wiki/Cache_replacement_policies#Pseudo-LRU_(PLRU)))
 * Add Segmented Least Recently Used ([SLRU](https://en.wikipedia.org/wiki/Cache_replacement_policies#Segmented_LRU_(SLRU)))
 * Add Time Aware Least Recently Used ([TLRU](https://en.wikipedia.org/wiki/Cache_replacement_policies#Time_aware_least_recently_used_(TLRU)))
